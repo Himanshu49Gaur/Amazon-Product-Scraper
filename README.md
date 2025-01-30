@@ -24,7 +24,7 @@ Download WebDriver:
 
 Run the Scraper: After setting up the environment and downloading the appropriate web driver, you can run the scraper using:
 
-bash
+
 Copy
 Edit
 python amazon_scraper.py
