@@ -13,4 +13,3 @@ You need to install the following dependencies for the scraper to work:
 
 - **Selenium**: For controlling the browser and interacting with the page.
 - **Chromedriver**: To use the Chrome browser for web scraping.
-- 
